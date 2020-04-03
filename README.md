@@ -8,9 +8,9 @@
 
 * I Would love to explore the applications of GAN in the upcoming days.
 
-* Link to the notebook.
+* Link to the notebook. <a href = "https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-1/Mnist-GAN.ipynb" > Click here. </a>
 
-![](dcgan.gif)
+![](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-1/dcgan.gif)
 
 <h2> References: </h2>
 
