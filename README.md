@@ -50,4 +50,4 @@
 
 * Completed the course 3 of the deep learning series by Andrew Ng.
 
-* <a href = "https://coursera.org/share/a71d7c30da92d0b555d493ef737f1ba2" > Certificate </a> for the course. 
+![](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-4/certificate) 
