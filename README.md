@@ -29,3 +29,25 @@
 * Completed Week 2 assignment of the same course.
 
 * Course link : <a href = "https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning"> Click here </a>
+
+<h2> Day 3 (04-04-2020) : FACE-GAN </h2>
+
+* Implemented DCGAN(Deep Convolutional Generative Adversarial Network) on the face dataset to generate human faces.
+
+* The image generated was not upto the mark and would need some modification. 
+
+* The dataset is available <a href = "https://www.kaggle.com/gasgallo/faces-data-new" > Here </a>
+
+* Link to the notebook is available <a href = "https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-3/Face_Gan.ipynb" >        here </a>
+
+<h2> Day 4 (05-05-2020) : Structural Machine Learning </h2>
+
+* Learnt about Machine Learning structural strategies used in the industry.
+
+* Read about terms like Avoidable bias and variance on the dataset and about Bayes error.
+
+* Read about Transfer Learning, Multi-task learning and end-to-end deep learning.
+
+* Completed the course 3 of the deep learning series by Andrew Ng.
+
+* <a href = "https://coursera.org/share/a71d7c30da92d0b555d493ef737f1ba2" > Certificate </a> for the course. 
