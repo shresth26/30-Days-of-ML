@@ -51,3 +51,18 @@
 * Completed the course 3 of the deep learning series by Andrew Ng.
 
 ![](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-4/certificate) 
+
+<h2> Day 5 (06-05-2020) : Clustering in Machine Learning </h2>
+  
+  * Today I studied about the various clustering algorithms used in ML.
+  
+  * The list includes : K-means, Mean-shift, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), Gaussian Mixture Models (GMM) and Agglomerative Hierarchical Clustering.
+  
+  * Analysed the pros and cons of each algorithm and the applications of each of them.
+  
+  * Looking forward to implement them in the coming days.
+  
+  * Relevant links on the topic. 
+  * < a href = "https://towardsdatascience.com/unsupervised-machine-learning-clustering-analysis-d40f2b34ae7e"> Link 1 </a>
+  * < a href = " https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68" > Link 2 </a>
+  * < a href = "https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/" > Link 3 </a>
