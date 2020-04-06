@@ -62,6 +62,6 @@
   
   * Looking forward to implement them in the coming days.
   
-  * Relevant links on the topic. < a href = "https://towardsdatascience.com/unsupervised-machine-learning-clustering-analysis-d40f2b34ae7e"> Link 1 </a>
-  < a href = " https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68" > Link 2 </a>
-   < a href = "https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/" > Link 3 </a>
+  * Relevant links on the topic. <a href = "https://towardsdatascience.com/unsupervised-machine-learning-clustering-analysis-d40f2b34ae7e" > Link 1 </a>
+  <a href = " https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68" > Link 2 </a>
+   <a href = "https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/" > Link 3 </a>
