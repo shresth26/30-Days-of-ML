@@ -63,5 +63,15 @@
   * Looking forward to implement them in the coming days.
   
   * Relevant links on the topic. <a href = "https://towardsdatascience.com/unsupervised-machine-learning-clustering-analysis-d40f2b34ae7e" > Link 1 </a>
-  <a href = " https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68" > Link 2 </a>
+  <a href = " https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68" > Link 2</a>
    <a href = "https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/" > Link 3 </a>
+   
+   <h2> Day 6 (07-04-2020) : Convolution </h2>
+   
+   * Today I started course 4 of the Deep Learning Series by deeplearning.ai
+   
+   * Week 1 turned out to be a quick recap of Convolution Neural Network (CNN).
+   
+   * The topics covered today included padding, strides, convolutions and MaxPooling.
+   
+   * The course is available <a href = "https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning " > Here. </a>
