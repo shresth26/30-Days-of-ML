@@ -34,7 +34,10 @@
 
 * Implemented DCGAN(Deep Convolutional Generative Adversarial Network) on the face dataset to generate human faces.
 
+<<<<<<< HEAD
 * The image generated was not upto the mark and would need some modification. 
+
+>>>>>>> commit time
 
 * The dataset is available <a href = "https://www.kaggle.com/gasgallo/faces-data-new" > Here </a>
 
@@ -50,28 +53,46 @@
 
 * Completed the course 3 of the deep learning series by Andrew Ng.
 
-![](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-4/certificate) 
+<<<<<<< HEAD
+
+![](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-4/certificate)
 
 <h2> Day 5 (06-05-2020) : Clustering in Machine Learning </h2>
-  
-  * Today I studied about the various clustering algorithms used in ML.
-  
-  * The list includes : K-means, Mean-shift, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), Gaussian Mixture Models (GMM) and Agglomerative Hierarchical Clustering.
-  
-  * Analysed the pros and cons of each algorithm and the applications of each of them.
-  
-  * Looking forward to implement them in the coming days.
-  
-  * Relevant links on the topic. <a href = "https://towardsdatascience.com/unsupervised-machine-learning-clustering-analysis-d40f2b34ae7e" > Link 1 </a>
-  <a href = " https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68" > Link 2</a>
+
+* Today I studied about the various clustering algorithms used in ML.
+
+* The list includes : K-means, Mean-shift, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), Gaussian Mixture Models (GMM) and Agglomerative Hierarchical Clustering.
+
+* Analysed the pros and cons of each algorithm and the applications of each of them.
+
+* Looking forward to implement them in the coming days.
+
+* Relevant links on the topic. <a href = "https://towardsdatascience.com/unsupervised-machine-learning-clustering-analysis-d40f2b34ae7e" > Link 1 </a>
+  <a href = "https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68" > Link 2</a>
    <a href = "https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/" > Link 3 </a>
-   
-   <h2> Day 6 (07-04-2020) : Convolution </h2>
-   
-   * Today I started course 4 of the Deep Learning Series by deeplearning.ai
-   
-   * Week 1 turned out to be a quick recap of Convolution Neural Network (CNN).
-   
-   * The topics covered today included padding, strides, convolutions and MaxPooling.
-   
-   * The course is available <a href = "https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning " > Here. </a>
+
+<h2> Day 6 (07-04-2020) : Convolution </h2>
+
+* Today I started course 4 of the Deep Learning Series by deeplearning.ai
+
+* Week 1 turned out to be a quick recap of Convolution Neural Network (CNN).
+
+* The topics covered today included padding, strides, convolutions and MaxPooling.
+
+* The course is available <a href = "https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning " > Here. </a>
+
+<h2> Day 7 (08-04-2020) : Colorization </h2>
+
+* Today I worked on the conversion of black images to images of color.
+
+* Used OpenCV and Deep Learning to implement the program.
+
+* The model used was pre-trained on the Caffe deep learning framework on ImageNet dataset.
+
+* You can refer to the paper <a href = "https://arxiv.org/pdf/1603.08511.pdf" > here </a> and to the documentation <a href = "https://github.com/richzhang/colorization" > here </a>
+
+* The results were plausible.
+
+
+<img src="./DAY-7/input_images/bw1.jpg" width="400"/> <img src="./DAY-7/output_images/color1.jpg" width="400"/>
+>>>>>>> commit time
