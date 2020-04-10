@@ -35,9 +35,8 @@
 * Implemented DCGAN(Deep Convolutional Generative Adversarial Network) on the face dataset to generate human faces.
 
 <<<<<<< HEAD
-* The image generated was not upto the mark and would need some modification. 
+* The image generated was not upto the mark and would need some modification.
 
->>>>>>> commit time
 
 * The dataset is available <a href = "https://www.kaggle.com/gasgallo/faces-data-new" > Here </a>
 
@@ -52,8 +51,6 @@
 * Read about Transfer Learning, Multi-task learning and end-to-end deep learning.
 
 * Completed the course 3 of the deep learning series by Andrew Ng.
-
-<<<<<<< HEAD
 
 ![](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-4/certificate)
 
@@ -95,4 +92,13 @@
 
 
 <img src="./DAY-7/input_images/bw1.jpg" width="400"/> <img src="./DAY-7/output_images/color1.jpg" width="400"/>
->>>>>>> commit time
+
+<h2> Day 8 (09-04-2020) : Background of CNN </h2>
+
+* Today I dived deeper into the background of CNN.
+
+* I wrote the code for it to understand what happens behind the scenes.
+
+* It's always good to know about the theory and code of the pre-defined functions used directly by us.
+
+* I implemented the model on the 'signs' dataset.
