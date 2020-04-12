@@ -102,3 +102,24 @@
 * It's always good to know about the theory and code of the pre-defined functions used directly by us.
 
 * I implemented the model on the 'signs' dataset.
+
+
+<h2> Day 9 (10-04-2020) : PyTorch </h2>
+
+* Today I started learning about the basics of the PyTorch deep learning framework.
+
+* Looked up the differences between Tensorflow and PyTorch.
+
+* Implemented the framework on the University of California car dataset.
+
+* Here's the notebook for it.
+
+<h2> Day 10 (11-04-2020) : ResNet and Inception </h2>
+
+* Today I started Week 2 of the fourth course in the Deep learning specialization.
+
+* Various architectures like ResNet, AlexNet and Inception were discussed in detail.
+
+* Read about the effectiveness of 1x1 convolution.
+
+* Would soon read the research papers on these architectures.
