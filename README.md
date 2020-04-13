@@ -34,7 +34,7 @@
 
 * Implemented DCGAN(Deep Convolutional Generative Adversarial Network) on the face dataset to generate human faces.
 
-<<<<<<< HEAD
+
 * The image generated was not upto the mark and would need some modification.
 
 
@@ -112,7 +112,7 @@
 
 * Implemented the framework on the University of California car dataset.
 
-* Here's the notebook for it.
+* Here's the notebook for it. ![notebook](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-9/CarPrice.ipynb)
 
 <h2> Day 10 (11-04-2020) : ResNet and Inception </h2>
 
@@ -123,3 +123,15 @@
 * Read about the effectiveness of 1x1 convolution.
 
 * Would soon read the research papers on these architectures.
+
+<h2> Day 11 (12-04-2020) : CIFAR10 Pytorch </h2>
+
+* Today I implemented the CIFAR 10 dataset using Pytorch.
+
+* The accuracy was not upto the mark since my primary focus was on understanding the framework.
+
+* Would tweak the hyperparameters and increase the number of epochs to achieve higher accuracy.
+
+* Would implement Pytorch on different datasets as well in the coming days.
+
+* You can find the notebook here .   
