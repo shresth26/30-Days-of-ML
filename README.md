@@ -134,4 +134,12 @@
 
 * Would implement Pytorch on different datasets as well in the coming days.
 
-* You can find the notebook here .   
+* You can find the notebook <a href = "https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-11/CIFAR_Torch.ipynb" > here. </a>
+
+<h2> Day 12 (13-04-2020) : Math for Machine Learning </h2>
+
+* Today I studied the required mathematics for machine learning.
+
+* The topics included Linear Algebra, Multivariate Calculus, Probability and Calculus.
+
+* The YouTube video for it is available <a href = "https://www.youtube.com/watch?v=1VSZtNYMntM" > here. </h2>
