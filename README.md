@@ -142,4 +142,52 @@
 
 * The topics included Linear Algebra, Multivariate Calculus, Probability and Calculus.
 
-* The YouTube video for it is available <a href = "https://www.youtube.com/watch?v=1VSZtNYMntM" > here. </h2>
+* The YouTube video for it is available <a href = "https://www.youtube.com/watch?v=1VSZtNYMntM" > here. </a>
+
+<h2> Day 13 (14-04-2020) : K-means Implementation </h2>
+
+* Today I worked on the analysis of Mall Customer Segmentation data on Kaggle.
+
+* The analysis involved the comparison between parameters like Customer age, salary and gender.
+
+* K-means algorithm was used to form a cluster of customers on the basis of their shopping traits.
+
+* The notebook is available here.
+
+<h2> Day 14 (15-04-2020) : Time Series Analysis </h2>
+
+* Today I read the theory of time series analysis and its applications.
+
+* I was fascinated to know that time series analysis has a different approach as compared to conventional ML algorithms.
+
+* The applications of time series really intrigued me and would implement it in the coming days.
+
+* Relevant links.
+
+ <a href = 'https://blogs.oracle.com/datascience/7-ways-time-series-forecasting-differs-from-machine-learning'> 7 Ways Time Series Forecasting Differs from Machine Learning </a>
+
+  <a href = "https://machinelearningmastery.com/time-series-forecasting/" > What Is Time Series Forecasting? </a>
+
+<h2> Day 15 (16-04-2020) : Basics of ML Libraries </h2>
+
+* Completed the assignment 1 for SHALA2020 course.
+
+* The assignment was an introduction to important libraries like Numpy, Pandas and Matplotlib.
+
+* The notebook is available <a href = 'https://github.com/shresth26/SHALA2020/blob/master/Assignment1.ipynb'> here </a>
+
+<h2> Day 16 (17-04-2020) : Introductory Statistics </h2>
+
+* Revised statistic concepts assigned under the pre-work category on SHALA course.
+
+* Consisted of topics like measuring central tendency, histograms and statistic fundamentals.
+
+* Eventually gave a quiz on the related topic.
+
+* Relevant links.
+
+<a href ='https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php' > Measures of Central Tendency </a>
+
+<a href = 'https://www.youtube.com/watch?v=SzZ6GpcfoQY'> Statistic fundamentals </a>
+
+<a href = 'https://www.youtube.com/watch?v=qBigTkBLU6g'> Histograms </a>
