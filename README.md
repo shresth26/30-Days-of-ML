@@ -152,7 +152,7 @@
 
 * K-means algorithm was used to form a cluster of customers on the basis of their shopping traits.
 
-* The notebook is available here.
+* The notebook is available <a href = 'https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-13/K-means.ipynb' > here. </a>
 
 <h2> Day 14 (15-04-2020) : Time Series Analysis </h2>
 
@@ -164,7 +164,7 @@
 
 * Relevant links.
 
- <a href = 'https://blogs.oracle.com/datascience/7-ways-time-series-forecasting-differs-from-machine-learning'> 7 Ways Time Series Forecasting Differs from Machine Learning </a>
+  <a href = 'https://blogs.oracle.com/datascience/7-ways-time-series-forecasting-differs-from-machine-learning'> 7 Ways Time Series Forecasting Differs from Machine Learning </a>
 
   <a href = "https://machinelearningmastery.com/time-series-forecasting/" > What Is Time Series Forecasting? </a>
 
@@ -186,8 +186,8 @@
 
 * Relevant links.
 
-<a href ='https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php' > Measures of Central Tendency </a>
+  <a href ='https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php' > Measures of Central Tendency </a>
 
-<a href = 'https://www.youtube.com/watch?v=SzZ6GpcfoQY'> Statistic fundamentals </a>
+  <a href = 'https://www.youtube.com/watch?v=SzZ6GpcfoQY'> Statistic fundamentals </a>
 
-<a href = 'https://www.youtube.com/watch?v=qBigTkBLU6g'> Histograms </a>
+  <a href = 'https://www.youtube.com/watch?v=qBigTkBLU6g'> Histograms </a>
