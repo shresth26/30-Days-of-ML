@@ -208,9 +208,7 @@
 
 * Completed assignment 2 of the IITB Shala course.
 
-* The assignment consisted of different kind of plots that can be made using libraries like Pandas, Matplotlib and Seaborn.
-
-* Explored various other visualization techniques as well.
+* Plotted and analysed data using Histograms, boxplots and pie chart.
 
 * The notebook can be accessed <a href = 'https://github.com/shresth26/SHALA2020/blob/master/Assignment-2/Assignment2.ipynb' > here. </a>
 
@@ -223,7 +221,7 @@
 
 * The model shows both the seasonality and trend in the data.
 
-* You can check out the notebook here.
+* You can check out the notebook <a href = 'https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-18/Passenger_Prediction.ipynb'> here. </a>
 
 
 <h2> Day 19 (20-04-2020) : Milk Production Prediction </h2>
@@ -234,4 +232,47 @@
 
 * The model shows both the seasonality and trend in the data.
 
-* You can check out the notebook here.
+* You can check out the notebook <a href = 'https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-19/Milk_Production.ipynb' > here. </a>
+
+
+<h2> Day 20 (21-04-2020) : Graphs and Charts </h2>
+
+* Read the theory of different types of graphs and their uses.
+
+* Studied the differences between the types of graphs and charts.
+
+* Learnt several visualization practices.
+
+* Relevant links.
+
+  <a href = 'https://chartio.com/learn/charts/essential-chart-types-for-data-visualization/'> Essential Chart Types for Data Visualization </a>
+
+  <a href = 'https://visme.co/blog/types-of-graphs/'> Types of Graphs </a>
+
+
+<h2> Day 21 (22-04-2020) : Graphs Implementation </h2>
+
+* Completed assignment 2 of the IITB Shala course.
+
+* The assignment consisted of different kind of charts and graphs that can be made using libraries like Pandas, Matplotlib and Seaborn.
+
+* Explored various other visualization techniques as well.
+
+* You can access the assignment <a href = 'https://github.com/shresth26/SHALA2020/blob/master/Assignment_3.ipynb'> here. </a>
+
+
+<h2> Day 22 (23-04-2020) :  Intermediate Statistics </h2>
+
+* Read a lot of intermediate statistics concepts.
+
+* Topics included Maximum likelihood estimation, sufficient statistics, null hypothesis testing, t-test and Wilcoxon rank test.
+
+* Would implement these concepts in the future.
+
+  Relevant Links:
+
+  <a href = 'https://www.youtube.com/watch?v=XepXtl9YKwc'> Maximum Likelihood </a>
+
+ <a href = 'https://statistics.laerd.com/statistical-guides/hypothesis-testing.php'> Hypothesis Testing </a>
+
+ <a href = 'https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740'> Statistical Tests </a>
