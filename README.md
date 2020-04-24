@@ -18,6 +18,7 @@
 
 <a href = "https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09"> What is Generative Adversarial Networks GAN? </a>
 
+
 <h2> Day 2 (03-04-2020) : Regularization and Optimization </h2>
 
 * Studied various regularization techniques in order to handle overfitting.
@@ -29,6 +30,7 @@
 * Completed Week 2 assignment of the same course.
 
 * Course link : <a href = "https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning"> Click here </a>
+
 
 <h2> Day 3 (04-04-2020) : FACE-GAN </h2>
 
@@ -42,6 +44,7 @@
 
 * Link to the notebook is available <a href = "https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-3/Face_Gan.ipynb" >        here </a>
 
+
 <h2> Day 4 (05-05-2020) : Structural Machine Learning </h2>
 
 * Learnt about Machine Learning structural strategies used in the industry.
@@ -53,6 +56,7 @@
 * Completed the course 3 of the deep learning series by Andrew Ng.
 
 ![](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-4/certificate)
+
 
 <h2> Day 5 (06-05-2020) : Clustering in Machine Learning </h2>
 
@@ -114,6 +118,7 @@
 
 * Here's the notebook for it. ![notebook](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-9/CarPrice.ipynb)
 
+
 <h2> Day 10 (11-04-2020) : ResNet and Inception </h2>
 
 * Today I started Week 2 of the fourth course in the Deep learning specialization.
@@ -123,6 +128,7 @@
 * Read about the effectiveness of 1x1 convolution.
 
 * Would soon read the research papers on these architectures.
+
 
 <h2> Day 11 (12-04-2020) : CIFAR10 Pytorch </h2>
 
@@ -136,6 +142,7 @@
 
 * You can find the notebook <a href = "https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-11/CIFAR_Torch.ipynb" > here. </a>
 
+
 <h2> Day 12 (13-04-2020) : Math for Machine Learning </h2>
 
 * Today I studied the required mathematics for machine learning.
@@ -143,6 +150,7 @@
 * The topics included Linear Algebra, Multivariate Calculus, Probability and Calculus.
 
 * The YouTube video for it is available <a href = "https://www.youtube.com/watch?v=1VSZtNYMntM" > here. </a>
+
 
 <h2> Day 13 (14-04-2020) : K-means Implementation </h2>
 
@@ -153,6 +161,7 @@
 * K-means algorithm was used to form a cluster of customers on the basis of their shopping traits.
 
 * The notebook is available <a href = 'https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-13/K-means.ipynb' > here. </a>
+
 
 <h2> Day 14 (15-04-2020) : Time Series Analysis </h2>
 
@@ -168,6 +177,7 @@
 
   <a href = "https://machinelearningmastery.com/time-series-forecasting/" > What Is Time Series Forecasting? </a>
 
+
 <h2> Day 15 (16-04-2020) : Basics of ML Libraries </h2>
 
 * Completed the assignment 1 for SHALA2020 course.
@@ -175,6 +185,7 @@
 * The assignment was an introduction to important libraries like Numpy, Pandas and Matplotlib.
 
 * The notebook is available <a href = 'https://github.com/shresth26/SHALA2020/blob/master/Assignment1.ipynb'> here </a>
+
 
 <h2> Day 16 (17-04-2020) : Introductory Statistics </h2>
 
@@ -191,3 +202,36 @@
   <a href = 'https://www.youtube.com/watch?v=SzZ6GpcfoQY'> Statistic fundamentals </a>
 
   <a href = 'https://www.youtube.com/watch?v=qBigTkBLU6g'> Histograms </a>
+
+
+<h2> Day 17 (18-04-2020) : Plotting </h2>
+
+* Completed assignment 2 of the IITB Shala course.
+
+* The assignment consisted of different kind of plots that can be made using libraries like Pandas, Matplotlib and Seaborn.
+
+* Explored various other visualization techniques as well.
+
+* The notebook can be accessed <a href = 'https://github.com/shresth26/SHALA2020/blob/master/Assignment-2/Assignment2.ipynb' > here. </a>
+
+
+<h2> Day 18 (19-04-2020) : Airline Passenger Prediction </h2>
+
+* Predicted the airline traffic for the future(3 years) using time series analysis using fbProphet.
+
+* Used Markov Chain Monte Carlo method(MCMC) to generate forecasts.
+
+* The model shows both the seasonality and trend in the data.
+
+* You can check out the notebook here.
+
+
+<h2> Day 19 (20-04-2020) : Milk Production Prediction </h2>
+
+* Predicted the milk production for the future(3 years) using time series analysis using fbProphet.
+
+* Used Markov Chain Monte Carlo method(MCMC) to generate forecasts.
+
+* The model shows both the seasonality and trend in the data.
+
+* You can check out the notebook here.
