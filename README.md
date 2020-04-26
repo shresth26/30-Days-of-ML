@@ -288,4 +288,4 @@
 
 * Performed a two sample t-test from samples of unknown distributions and found the critical value.
 
-* Notebook is available <a href 'https://github.com/shresth26/SHALA2020/blob/master/Assignment_4.ipynb'> here. </a>
+* Notebook is available <a href = 'https://github.com/shresth26/SHALA2020/blob/master/Assignment_4.ipynb'> here. </a>
