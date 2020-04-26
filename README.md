@@ -273,6 +273,19 @@
 
   <a href = 'https://www.youtube.com/watch?v=XepXtl9YKwc'> Maximum Likelihood </a>
 
- <a href = 'https://statistics.laerd.com/statistical-guides/hypothesis-testing.php'> Hypothesis Testing </a>
+  <a href = 'https://statistics.laerd.com/statistical-guides/hypothesis-testing.php'> Hypothesis Testing </a>
 
- <a href = 'https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740'> Statistical Tests </a>
+  <a href = 'https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740'> Statistical Tests </a>
+
+
+<h2> Day 23 (24-04-2020) : Statistics Assignment </h2>
+
+* Completed assignment 4 of the SHALA IITB course.
+
+* With this the module 1 (Data Science) of the course has been completed.
+
+* Computed the likelihood and log likelihood from samples that were drawn from an exponential distribution.
+
+* Performed a two sample t-test from samples of unknown distributions and found the critical value.
+
+* Notebook is available <a href 'https://github.com/shresth26/SHALA2020/blob/master/Assignment_4.ipynb'> here. </a>
