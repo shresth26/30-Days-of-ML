@@ -300,4 +300,15 @@
 
 * Was able to complete the assignment and detect cars.
 
-<img src = "./DAY-24/car_detection.png" />
+<img src = "./DAY-24/car_detection.png" width = "500" />
+
+<h2> Day 25 (26-04-2020) : Neural Style Transfer </h2>
+
+* Started Week 4 of the CNN deeplearning.ai course
+
+* The topic for the week was art generation with neural style transfer.
+
+* Understood the 2 types of cost functions i.e. Content cost function and Style cost function.
+
+* Completed the assignment for art generation.
+<img src = "./DAY-25/louvre_generated.png" width = "500" />
