@@ -289,3 +289,15 @@
 * Performed a two sample t-test from samples of unknown distributions and found the critical value.
 
 * Notebook is available <a href = 'https://github.com/shresth26/SHALA2020/blob/master/Assignment_4.ipynb'> here. </a>
+
+<h2> Day 24 (25-04-2020) : Car Detection using YOLO </h2>
+
+* Started week 3 of the CNN course by deeplearning.ai
+
+* Read about object localization, object and landmark detection and non-max suppression.
+
+* Studied the YOLO algorithm and implemented it in the week's assignment.
+
+* Was able to complete the assignment and detect cars.
+
+<img src = "./DAY-24/car_detection.png" />
