@@ -55,7 +55,7 @@
 
 * Completed the course 3 of the deep learning series by Andrew Ng.
 
-![](https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-4/certificate)
+![](./DAY-4/certificate.jpg)
 
 
 <h2> Day 5 (06-05-2020) : Clustering in Machine Learning </h2>
@@ -78,7 +78,7 @@
 
 * Week 1 turned out to be a quick recap of Convolution Neural Network (CNN).
 
-* The topics covered today included padding, strides, convolutions and MaxPooling.
+* The topics covered todaytujhe bhula diya included padding, strides, convolutions and MaxPooling.
 
 * The course is available <a href = "https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning " > Here. </a>
 
@@ -311,4 +311,17 @@
 * Understood the 2 types of cost functions i.e. Content cost function and Style cost function.
 
 * Completed the assignment for art generation.
-<img src = "./DAY-25/louvre_generated.png" width = "500" />
+
+<img src = "./DAY-25/louvre_generated.png" width = "700" />
+
+<h2> Day 26 (27-04-2020) : Face Recognition and Verification </h2>
+
+* Read about one-shot learning and its application in face recognition.
+
+* Understood the concepts of Siamese network and triplet loss.
+
+* Implemented face recognition and verification in the assignment.
+
+* With this completed the Course 4 of deeplearning.ai specialization.
+
+![](DAY-26/certificate.jpg)
