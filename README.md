@@ -325,3 +325,15 @@
 * With this completed the Course 4 of deeplearning.ai specialization.
 
 ![](DAY-26/certificate.jpg)
+
+<h2> Day 27 (28-04-2020) : Random Forest </h2>
+
+* Read about Decision trees and Random Forest Regressor as well as Classifier.
+
+* Gave a quiz on the topic and implemented the concepts in the SHALA ML assignment 1.
+
+* Predicted the Attrition of the employees of a company using classifier.
+
+  <a href = 'https://towardsdatascience.com/understanding-random-forest-58381e0602d2'> Understanding Random Forests </a>
+
+  <a href = 'https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html' > Documentation </a>
