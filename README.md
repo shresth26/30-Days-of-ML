@@ -337,3 +337,15 @@
   <a href = 'https://towardsdatascience.com/understanding-random-forest-58381e0602d2'> Understanding Random Forests </a>
 
   <a href = 'https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html' > Documentation </a>
+
+<h2> Day 28 (29-04-2020) : Logistic Regression on Titanic dataset </h2>
+
+* Made a classifier using Logistic Regression to predict the survival of a passenger in the Titanic dataset.
+
+* Reached 79.3% accuracy, plotted the roc curve and calculated the roc_auc_score.
+
+* Found out that Jack Dawson couldn't survive whereas Rose made it. Sigh!
+
+* The notebook can be found here.
+
+![](DAY-28/roc_curve.png)
