@@ -346,6 +346,14 @@
 
 * Found out that Jack Dawson couldn't survive whereas Rose made it. Sigh!
 
-* The notebook can be found here.
+* The notebook can be found <a href = 'https://github.com/shresth26/100-Days-of-ML/blob/master/DAY-28/LogisticRegression_Titanic.ipynb' > here. </a>
 
 ![](DAY-28/roc_curve.png)
+
+<h2> Day 29 (30-04-2020) : Titanic Dataset classifers </h2>
+
+* Made several classifiers to predict passenger survival on the Titanic.
+
+* Applied Logistic Regression, Decison Trees, Random Forest, Gradient Boosting and XGBoost algorithms.
+
+* Corrected the anomalies of the logistic regression analyis performed the previous day.
